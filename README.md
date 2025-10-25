@@ -3,4 +3,4 @@ Save file dedicated for the Mechanic achievement (collecting all 108 parts) in t
 
 - Put the save in `%appdata%\..\LocalLow\Shape Shop\Mars First Logistics`.
 - Load the save: slot 3.
-- Mission finishes and the last part is recieved along with the 'Mechanic' achievement.
+- Mission finishes and the 108th part is received along with the 'Mechanic' achievement.
